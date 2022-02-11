@@ -1,0 +1,16 @@
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.AssemblyInfo.cs
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.exe
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.deps.json
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.runtimeconfig.json
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.runtimeconfig.dev.json
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.dll
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\ref\PracticeDesignPatterns.dll
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\bin\Debug\net5.0\PracticeDesignPatterns.pdb
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.dll
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\ref\PracticeDesignPatterns.dll
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.pdb
+C:\Users\themis\source\repos\PracticeDesignPatterns\PracticeDesignPatterns\obj\Debug\net5.0\PracticeDesignPatterns.genruntimeconfig.cache

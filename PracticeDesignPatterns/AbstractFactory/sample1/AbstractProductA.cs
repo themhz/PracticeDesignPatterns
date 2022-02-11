@@ -1,0 +1,2 @@
+﻿abstract public class AbstractProductA {
+}
